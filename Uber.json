@@ -1,0 +1,2126 @@
+[
+   {
+      "dispatching_base_number": "B02512",
+      "date": "1/1/2015",
+      "active_vehicles": 190,
+      "trips": 1132
+   },
+   {
+      "dispatching_base_number": "B02765",
+      "date": "1/1/2015",
+      "active_vehicles": 225,
+      "trips": 1765
+   },
+   {
+      "dispatching_base_number": "B02764",
+      "date": "1/1/2015",
+      "active_vehicles": 3427,
+      "trips": 29421
+   },
+   {
+      "dispatching_base_number": "B02682",
+      "date": "1/1/2015",
+      "active_vehicles": 945,
+      "trips": 7679
+   },
+   {
+      "dispatching_base_number": "B02617",
+      "date": "1/1/2015",
+      "active_vehicles": 1228,
+      "trips": 9537
+   },
+   {
+      "dispatching_base_number": "B02598",
+      "date": "1/1/2015",
+      "active_vehicles": 870,
+      "trips": 6903
+   },
+   {
+      "dispatching_base_number": "B02598",
+      "date": "1/2/2015",
+      "active_vehicles": 785,
+      "trips": 4768
+   },
+   {
+      "dispatching_base_number": "B02617",
+      "date": "1/2/2015",
+      "active_vehicles": 1137,
+      "trips": 7065
+   },
+   {
+      "dispatching_base_number": "B02512",
+      "date": "1/2/2015",
+      "active_vehicles": 175,
+      "trips": 875
+   },
+   {
+      "dispatching_base_number": "B02682",
+      "date": "1/2/2015",
+      "active_vehicles": 890,
+      "trips": 5506
+   },
+   {
+      "dispatching_base_number": "B02765",
+      "date": "1/2/2015",
+      "active_vehicles": 196,
+      "trips": 1001
+   },
+   {
+      "dispatching_base_number": "B02764",
+      "date": "1/2/2015",
+      "active_vehicles": 3147,
+      "trips": 19974
+   },
+   {
+      "dispatching_base_number": "B02765",
+      "date": "1/3/2015",
+      "active_vehicles": 201,
+      "trips": 1526
+   },
+   {
+      "dispatching_base_number": "B02617",
+      "date": "1/3/2015",
+      "active_vehicles": 1188,
+      "trips": 10664
+   },
+   {
+      "dispatching_base_number": "B02598",
+      "date": "1/3/2015",
+      "active_vehicles": 818,
+      "trips": 7432
+   },
+   {
+      "dispatching_base_number": "B02682",
+      "date": "1/3/2015",
+      "active_vehicles": 915,
+      "trips": 8010
+   },
+   {
+      "dispatching_base_number": "B02512",
+      "date": "1/3/2015",
+      "active_vehicles": 173,
+      "trips": 1088
+   },
+   {
+      "dispatching_base_number": "B02764",
+      "date": "1/3/2015",
+      "active_vehicles": 3215,
+      "trips": 29729
+   },
+   {
+      "dispatching_base_number": "B02512",
+      "date": "1/4/2015",
+      "active_vehicles": 147,
+      "trips": 791
+   },
+   {
+      "dispatching_base_number": "B02682",
+      "date": "1/4/2015",
+      "active_vehicles": 812,
+      "trips": 5621
+   },
+   {
+      "dispatching_base_number": "B02598",
+      "date": "1/4/2015",
+      "active_vehicles": 746,
+      "trips": 5223
+   },
+   {
+      "dispatching_base_number": "B02765",
+      "date": "1/4/2015",
+      "active_vehicles": 183,
+      "trips": 993
+   },
+   {
+      "dispatching_base_number": "B02617",
+      "date": "1/4/2015",
+      "active_vehicles": 1088,
+      "trips": 7729
+   },
+   {
+      "dispatching_base_number": "B02764",
+      "date": "1/4/2015",
+      "active_vehicles": 2862,
+      "trips": 20441
+   },
+   {
+      "dispatching_base_number": "B02512",
+      "date": "1/5/2015",
+      "active_vehicles": 194,
+      "trips": 984
+   },
+   {
+      "dispatching_base_number": "B02682",
+      "date": "1/5/2015",
+      "active_vehicles": 951,
+      "trips": 6012
+   },
+   {
+      "dispatching_base_number": "B02617",
+      "date": "1/5/2015",
+      "active_vehicles": 1218,
+      "trips": 7899
+   },
+   {
+      "dispatching_base_number": "B02764",
+      "date": "1/5/2015",
+      "active_vehicles": 3387,
+      "trips": 20926
+   },
+   {
+      "dispatching_base_number": "B02598",
+      "date": "1/5/2015",
+      "active_vehicles": 907,
+      "trips": 5798
+   },
+   {
+      "dispatching_base_number": "B02765",
+      "date": "1/5/2015",
+      "active_vehicles": 227,
+      "trips": 1133
+   },
+   {
+      "dispatching_base_number": "B02764",
+      "date": "1/6/2015",
+      "active_vehicles": 3473,
+      "trips": 25301
+   },
+   {
+      "dispatching_base_number": "B02682",
+      "date": "1/6/2015",
+      "active_vehicles": 1022,
+      "trips": 7491
+   },
+   {
+      "dispatching_base_number": "B02617",
+      "date": "1/6/2015",
+      "active_vehicles": 1336,
+      "trips": 10128
+   },
+   {
+      "dispatching_base_number": "B02765",
+      "date": "1/6/2015",
+      "active_vehicles": 234,
+      "trips": 1376
+   },
+   {
+      "dispatching_base_number": "B02512",
+      "date": "1/6/2015",
+      "active_vehicles": 218,
+      "trips": 1314
+   },
+   {
+      "dispatching_base_number": "B02598",
+      "date": "1/6/2015",
+      "active_vehicles": 933,
+      "trips": 6816
+   },
+   {
+      "dispatching_base_number": "B02617",
+      "date": "1/7/2015",
+      "active_vehicles": 1363,
+      "trips": 11528
+   },
+   {
+      "dispatching_base_number": "B02682",
+      "date": "1/7/2015",
+      "active_vehicles": 1039,
+      "trips": 9078
+   },
+   {
+      "dispatching_base_number": "B02764",
+      "date": "1/7/2015",
+      "active_vehicles": 3603,
+      "trips": 29949
+   },
+   {
+      "dispatching_base_number": "B02765",
+      "date": "1/7/2015",
+      "active_vehicles": 248,
+      "trips": 1704
+   },
+   {
+      "dispatching_base_number": "B02512",
+      "date": "1/7/2015",
+      "active_vehicles": 217,
+      "trips": 1446
+   },
+   {
+      "dispatching_base_number": "B02598",
+      "date": "1/7/2015",
+      "active_vehicles": 974,
+      "trips": 8397
+   },
+   {
+      "dispatching_base_number": "B02765",
+      "date": "1/8/2015",
+      "active_vehicles": 262,
+      "trips": 1911
+   },
+   {
+      "dispatching_base_number": "B02598",
+      "date": "1/8/2015",
+      "active_vehicles": 1070,
+      "trips": 10050
+   },
+   {
+      "dispatching_base_number": "B02512",
+      "date": "1/8/2015",
+      "active_vehicles": 238,
+      "trips": 1772
+   },
+   {
+      "dispatching_base_number": "B02682",
+      "date": "1/8/2015",
+      "active_vehicles": 1135,
+      "trips": 10416
+   },
+   {
+      "dispatching_base_number": "B02764",
+      "date": "1/8/2015",
+      "active_vehicles": 3831,
+      "trips": 33802
+   },
+   {
+      "dispatching_base_number": "B02617",
+      "date": "1/8/2015",
+      "active_vehicles": 1463,
+      "trips": 13462
+   },
+   {
+      "dispatching_base_number": "B02617",
+      "date": "1/9/2015",
+      "active_vehicles": 1455,
+      "trips": 13165
+   },
+   {
+      "dispatching_base_number": "B02512",
+      "date": "1/9/2015",
+      "active_vehicles": 224,
+      "trips": 1560
+   },
+   {
+      "dispatching_base_number": "B02764",
+      "date": "1/9/2015",
+      "active_vehicles": 3820,
+      "trips": 33517
+   },
+   {
+      "dispatching_base_number": "B02682",
+      "date": "1/9/2015",
+      "active_vehicles": 1140,
+      "trips": 10477
+   },
+   {
+      "dispatching_base_number": "B02598",
+      "date": "1/9/2015",
+      "active_vehicles": 1070,
+      "trips": 9538
+   },
+   {
+      "dispatching_base_number": "B02765",
+      "date": "1/9/2015",
+      "active_vehicles": 280,
+      "trips": 2039
+   },
+   {
+      "dispatching_base_number": "B02682",
+      "date": "1/10/2015",
+      "active_vehicles": 1057,
+      "trips": 11629
+   },
+   {
+      "dispatching_base_number": "B02617",
+      "date": "1/10/2015",
+      "active_vehicles": 1331,
+      "trips": 13856
+   },
+   {
+      "dispatching_base_number": "B02598",
+      "date": "1/10/2015",
+      "active_vehicles": 949,
+      "trips": 10287
+   },
+   {
+      "dispatching_base_number": "B02512",
+      "date": "1/10/2015",
+      "active_vehicles": 206,
+      "trips": 1646
+   },
+   {
+      "dispatching_base_number": "B02764",
+      "date": "1/10/2015",
+      "active_vehicles": 3558,
+      "trips": 38864
+   },
+   {
+      "dispatching_base_number": "B02765",
+      "date": "1/10/2015",
+      "active_vehicles": 245,
+      "trips": 2202
+   },
+   {
+      "dispatching_base_number": "B02765",
+      "date": "1/11/2015",
+      "active_vehicles": 220,
+      "trips": 1672
+   },
+   {
+      "dispatching_base_number": "B02598",
+      "date": "1/11/2015",
+      "active_vehicles": 832,
+      "trips": 7176
+   },
+   {
+      "dispatching_base_number": "B02682",
+      "date": "1/11/2015",
+      "active_vehicles": 943,
+      "trips": 8461
+   },
+   {
+      "dispatching_base_number": "B02764",
+      "date": "1/11/2015",
+      "active_vehicles": 3186,
+      "trips": 27681
+   },
+   {
+      "dispatching_base_number": "B02617",
+      "date": "1/11/2015",
+      "active_vehicles": 1228,
+      "trips": 10932
+   },
+   {
+      "dispatching_base_number": "B02512",
+      "date": "1/11/2015",
+      "active_vehicles": 162,
+      "trips": 1104
+   },
+   {
+      "dispatching_base_number": "B02764",
+      "date": "1/12/2015",
+      "active_vehicles": 3499,
+      "trips": 26852
+   },
+   {
+      "dispatching_base_number": "B02765",
+      "date": "1/12/2015",
+      "active_vehicles": 279,
+      "trips": 1711
+   },
+   {
+      "dispatching_base_number": "B02512",
+      "date": "1/12/2015",
+      "active_vehicles": 217,
+      "trips": 1399
+   },
+   {
+      "dispatching_base_number": "B02598",
+      "date": "1/12/2015",
+      "active_vehicles": 964,
+      "trips": 7915
+   },
+   {
+      "dispatching_base_number": "B02682",
+      "date": "1/12/2015",
+      "active_vehicles": 1082,
+      "trips": 9107
+   },
+   {
+      "dispatching_base_number": "B02617",
+      "date": "1/12/2015",
+      "active_vehicles": 1323,
+      "trips": 10662
+   },
+   {
+      "dispatching_base_number": "B02765",
+      "date": "1/13/2015",
+      "active_vehicles": 258,
+      "trips": 1697
+   },
+   {
+      "dispatching_base_number": "B02598",
+      "date": "1/13/2015",
+      "active_vehicles": 975,
+      "trips": 8713
+   },
+   {
+      "dispatching_base_number": "B02617",
+      "date": "1/13/2015",
+      "active_vehicles": 1342,
+      "trips": 11825
+   },
+   {
+      "dispatching_base_number": "B02512",
+      "date": "1/13/2015",
+      "active_vehicles": 234,
+      "trips": 1652
+   },
+   {
+      "dispatching_base_number": "B02764",
+      "date": "1/13/2015",
+      "active_vehicles": 3658,
+      "trips": 29983
+   },
+   {
+      "dispatching_base_number": "B02682",
+      "date": "1/13/2015",
+      "active_vehicles": 1092,
+      "trips": 9629
+   },
+   {
+      "dispatching_base_number": "B02764",
+      "date": "1/14/2015",
+      "active_vehicles": 3736,
+      "trips": 29550
+   },
+   {
+      "dispatching_base_number": "B02765",
+      "date": "1/14/2015",
+      "active_vehicles": 271,
+      "trips": 1600
+   },
+   {
+      "dispatching_base_number": "B02598",
+      "date": "1/14/2015",
+      "active_vehicles": 1030,
+      "trips": 8870
+   },
+   {
+      "dispatching_base_number": "B02512",
+      "date": "1/14/2015",
+      "active_vehicles": 233,
+      "trips": 1582
+   },
+   {
+      "dispatching_base_number": "B02617",
+      "date": "1/14/2015",
+      "active_vehicles": 1405,
+      "trips": 11965
+   },
+   {
+      "dispatching_base_number": "B02682",
+      "date": "1/14/2015",
+      "active_vehicles": 1174,
+      "trips": 9762
+   },
+   {
+      "dispatching_base_number": "B02512",
+      "date": "1/15/2015",
+      "active_vehicles": 237,
+      "trips": 1636
+   },
+   {
+      "dispatching_base_number": "B02682",
+      "date": "1/15/2015",
+      "active_vehicles": 1208,
+      "trips": 10391
+   },
+   {
+      "dispatching_base_number": "B02617",
+      "date": "1/15/2015",
+      "active_vehicles": 1457,
+      "trips": 12539
+   },
+   {
+      "dispatching_base_number": "B02765",
+      "date": "1/15/2015",
+      "active_vehicles": 270,
+      "trips": 1797
+   },
+   {
+      "dispatching_base_number": "B02764",
+      "date": "1/15/2015",
+      "active_vehicles": 3840,
+      "trips": 31214
+   },
+   {
+      "dispatching_base_number": "B02598",
+      "date": "1/15/2015",
+      "active_vehicles": 1068,
+      "trips": 9152
+   },
+   {
+      "dispatching_base_number": "B02617",
+      "date": "1/16/2015",
+      "active_vehicles": 1445,
+      "trips": 12977
+   },
+   {
+      "dispatching_base_number": "B02765",
+      "date": "1/16/2015",
+      "active_vehicles": 290,
+      "trips": 2082
+   },
+   {
+      "dispatching_base_number": "B02764",
+      "date": "1/16/2015",
+      "active_vehicles": 3975,
+      "trips": 34822
+   },
+   {
+      "dispatching_base_number": "B02682",
+      "date": "1/16/2015",
+      "active_vehicles": 1250,
+      "trips": 11280
+   },
+   {
+      "dispatching_base_number": "B02512",
+      "date": "1/16/2015",
+      "active_vehicles": 234,
+      "trips": 1481
+   },
+   {
+      "dispatching_base_number": "B02598",
+      "date": "1/16/2015",
+      "active_vehicles": 1079,
+      "trips": 9838
+   },
+   {
+      "dispatching_base_number": "B02598",
+      "date": "1/17/2015",
+      "active_vehicles": 974,
+      "trips": 9546
+   },
+   {
+      "dispatching_base_number": "B02512",
+      "date": "1/17/2015",
+      "active_vehicles": 201,
+      "trips": 1281
+   },
+   {
+      "dispatching_base_number": "B02682",
+      "date": "1/17/2015",
+      "active_vehicles": 1137,
+      "trips": 11382
+   },
+   {
+      "dispatching_base_number": "B02765",
+      "date": "1/17/2015",
+      "active_vehicles": 252,
+      "trips": 2160
+   },
+   {
+      "dispatching_base_number": "B02617",
+      "date": "1/17/2015",
+      "active_vehicles": 1306,
+      "trips": 12676
+   },
+   {
+      "dispatching_base_number": "B02764",
+      "date": "1/17/2015",
+      "active_vehicles": 3657,
+      "trips": 36318
+   },
+   {
+      "dispatching_base_number": "B02512",
+      "date": "1/18/2015",
+      "active_vehicles": 177,
+      "trips": 1521
+   },
+   {
+      "dispatching_base_number": "B02598",
+      "date": "1/18/2015",
+      "active_vehicles": 869,
+      "trips": 9443
+   },
+   {
+      "dispatching_base_number": "B02765",
+      "date": "1/18/2015",
+      "active_vehicles": 248,
+      "trips": 2287
+   },
+   {
+      "dispatching_base_number": "B02764",
+      "date": "1/18/2015",
+      "active_vehicles": 3290,
+      "trips": 35182
+   },
+   {
+      "dispatching_base_number": "B02682",
+      "date": "1/18/2015",
+      "active_vehicles": 1056,
+      "trips": 11161
+   },
+   {
+      "dispatching_base_number": "B02617",
+      "date": "1/18/2015",
+      "active_vehicles": 1223,
+      "trips": 12879
+   },
+   {
+      "dispatching_base_number": "B02682",
+      "date": "1/19/2015",
+      "active_vehicles": 883,
+      "trips": 7028
+   },
+   {
+      "dispatching_base_number": "B02617",
+      "date": "1/19/2015",
+      "active_vehicles": 992,
+      "trips": 7775
+   },
+   {
+      "dispatching_base_number": "B02765",
+      "date": "1/19/2015",
+      "active_vehicles": 238,
+      "trips": 1568
+   },
+   {
+      "dispatching_base_number": "B02764",
+      "date": "1/19/2015",
+      "active_vehicles": 2958,
+      "trips": 22750
+   },
+   {
+      "dispatching_base_number": "B02512",
+      "date": "1/19/2015",
+      "active_vehicles": 168,
+      "trips": 1025
+   },
+   {
+      "dispatching_base_number": "B02598",
+      "date": "1/19/2015",
+      "active_vehicles": 706,
+      "trips": 5609
+   },
+   {
+      "dispatching_base_number": "B02598",
+      "date": "1/20/2015",
+      "active_vehicles": 944,
+      "trips": 7206
+   },
+   {
+      "dispatching_base_number": "B02682",
+      "date": "1/20/2015",
+      "active_vehicles": 1151,
+      "trips": 8496
+   },
+   {
+      "dispatching_base_number": "B02512",
+      "date": "1/20/2015",
+      "active_vehicles": 221,
+      "trips": 1310
+   },
+   {
+      "dispatching_base_number": "B02764",
+      "date": "1/20/2015",
+      "active_vehicles": 3654,
+      "trips": 26137
+   },
+   {
+      "dispatching_base_number": "B02765",
+      "date": "1/20/2015",
+      "active_vehicles": 272,
+      "trips": 1608
+   },
+   {
+      "dispatching_base_number": "B02617",
+      "date": "1/20/2015",
+      "active_vehicles": 1350,
+      "trips": 10015
+   },
+   {
+      "dispatching_base_number": "B02764",
+      "date": "1/21/2015",
+      "active_vehicles": 3718,
+      "trips": 27344
+   },
+   {
+      "dispatching_base_number": "B02512",
+      "date": "1/21/2015",
+      "active_vehicles": 242,
+      "trips": 1519
+   },
+   {
+      "dispatching_base_number": "B02682",
+      "date": "1/21/2015",
+      "active_vehicles": 1228,
+      "trips": 9472
+   },
+   {
+      "dispatching_base_number": "B02598",
+      "date": "1/21/2015",
+      "active_vehicles": 1035,
+      "trips": 8041
+   },
+   {
+      "dispatching_base_number": "B02765",
+      "date": "1/21/2015",
+      "active_vehicles": 296,
+      "trips": 1774
+   },
+   {
+      "dispatching_base_number": "B02617",
+      "date": "1/21/2015",
+      "active_vehicles": 1429,
+      "trips": 10997
+   },
+   {
+      "dispatching_base_number": "B02617",
+      "date": "1/22/2015",
+      "active_vehicles": 1471,
+      "trips": 12143
+   },
+   {
+      "dispatching_base_number": "B02764",
+      "date": "1/22/2015",
+      "active_vehicles": 3889,
+      "trips": 30091
+   },
+   {
+      "dispatching_base_number": "B02512",
+      "date": "1/22/2015",
+      "active_vehicles": 246,
+      "trips": 1551
+   },
+   {
+      "dispatching_base_number": "B02598",
+      "date": "1/22/2015",
+      "active_vehicles": 1071,
+      "trips": 9080
+   },
+   {
+      "dispatching_base_number": "B02682",
+      "date": "1/22/2015",
+      "active_vehicles": 1295,
+      "trips": 10699
+   },
+   {
+      "dispatching_base_number": "B02765",
+      "date": "1/22/2015",
+      "active_vehicles": 295,
+      "trips": 2038
+   },
+   {
+      "dispatching_base_number": "B02598",
+      "date": "1/23/2015",
+      "active_vehicles": 1093,
+      "trips": 9343
+   },
+   {
+      "dispatching_base_number": "B02512",
+      "date": "1/23/2015",
+      "active_vehicles": 246,
+      "trips": 1670
+   },
+   {
+      "dispatching_base_number": "B02765",
+      "date": "1/23/2015",
+      "active_vehicles": 299,
+      "trips": 2162
+   },
+   {
+      "dispatching_base_number": "B02764",
+      "date": "1/23/2015",
+      "active_vehicles": 4040,
+      "trips": 33756
+   },
+   {
+      "dispatching_base_number": "B02617",
+      "date": "1/23/2015",
+      "active_vehicles": 1482,
+      "trips": 13121
+   },
+   {
+      "dispatching_base_number": "B02682",
+      "date": "1/23/2015",
+      "active_vehicles": 1330,
+      "trips": 11767
+   },
+   {
+      "dispatching_base_number": "B02598",
+      "date": "1/24/2015",
+      "active_vehicles": 945,
+      "trips": 10040
+   },
+   {
+      "dispatching_base_number": "B02764",
+      "date": "1/24/2015",
+      "active_vehicles": 3652,
+      "trips": 39187
+   },
+   {
+      "dispatching_base_number": "B02512",
+      "date": "1/24/2015",
+      "active_vehicles": 211,
+      "trips": 1608
+   },
+   {
+      "dispatching_base_number": "B02617",
+      "date": "1/24/2015",
+      "active_vehicles": 1367,
+      "trips": 14143
+   },
+   {
+      "dispatching_base_number": "B02682",
+      "date": "1/24/2015",
+      "active_vehicles": 1223,
+      "trips": 13355
+   },
+   {
+      "dispatching_base_number": "B02765",
+      "date": "1/24/2015",
+      "active_vehicles": 245,
+      "trips": 2376
+   },
+   {
+      "dispatching_base_number": "B02512",
+      "date": "1/25/2015",
+      "active_vehicles": 183,
+      "trips": 1190
+   },
+   {
+      "dispatching_base_number": "B02764",
+      "date": "1/25/2015",
+      "active_vehicles": 3300,
+      "trips": 28066
+   },
+   {
+      "dispatching_base_number": "B02765",
+      "date": "1/25/2015",
+      "active_vehicles": 226,
+      "trips": 1755
+   },
+   {
+      "dispatching_base_number": "B02598",
+      "date": "1/25/2015",
+      "active_vehicles": 829,
+      "trips": 7219
+   },
+   {
+      "dispatching_base_number": "B02682",
+      "date": "1/25/2015",
+      "active_vehicles": 1046,
+      "trips": 9303
+   },
+   {
+      "dispatching_base_number": "B02617",
+      "date": "1/25/2015",
+      "active_vehicles": 1203,
+      "trips": 10362
+   },
+   {
+      "dispatching_base_number": "B02617",
+      "date": "1/26/2015",
+      "active_vehicles": 1150,
+      "trips": 7608
+   },
+   {
+      "dispatching_base_number": "B02598",
+      "date": "1/26/2015",
+      "active_vehicles": 860,
+      "trips": 5919
+   },
+   {
+      "dispatching_base_number": "B02765",
+      "date": "1/26/2015",
+      "active_vehicles": 230,
+      "trips": 1363
+   },
+   {
+      "dispatching_base_number": "B02764",
+      "date": "1/26/2015",
+      "active_vehicles": 3012,
+      "trips": 19940
+   },
+   {
+      "dispatching_base_number": "B02682",
+      "date": "1/26/2015",
+      "active_vehicles": 1084,
+      "trips": 7565
+   },
+   {
+      "dispatching_base_number": "B02512",
+      "date": "1/26/2015",
+      "active_vehicles": 197,
+      "trips": 1000
+   },
+   {
+      "dispatching_base_number": "B02682",
+      "date": "1/27/2015",
+      "active_vehicles": 600,
+      "trips": 4414
+   },
+   {
+      "dispatching_base_number": "B02765",
+      "date": "1/27/2015",
+      "active_vehicles": 135,
+      "trips": 921
+   },
+   {
+      "dispatching_base_number": "B02617",
+      "date": "1/27/2015",
+      "active_vehicles": 596,
+      "trips": 4325
+   },
+   {
+      "dispatching_base_number": "B02598",
+      "date": "1/27/2015",
+      "active_vehicles": 434,
+      "trips": 2957
+   },
+   {
+      "dispatching_base_number": "B02512",
+      "date": "1/27/2015",
+      "active_vehicles": 112,
+      "trips": 629
+   },
+   {
+      "dispatching_base_number": "B02764",
+      "date": "1/27/2015",
+      "active_vehicles": 1619,
+      "trips": 11998
+   },
+   {
+      "dispatching_base_number": "B02764",
+      "date": "1/28/2015",
+      "active_vehicles": 3692,
+      "trips": 28137
+   },
+   {
+      "dispatching_base_number": "B02682",
+      "date": "1/28/2015",
+      "active_vehicles": 1235,
+      "trips": 10025
+   },
+   {
+      "dispatching_base_number": "B02765",
+      "date": "1/28/2015",
+      "active_vehicles": 286,
+      "trips": 1913
+   },
+   {
+      "dispatching_base_number": "B02617",
+      "date": "1/28/2015",
+      "active_vehicles": 1356,
+      "trips": 10862
+   },
+   {
+      "dispatching_base_number": "B02598",
+      "date": "1/28/2015",
+      "active_vehicles": 1011,
+      "trips": 8071
+   },
+   {
+      "dispatching_base_number": "B02512",
+      "date": "1/28/2015",
+      "active_vehicles": 235,
+      "trips": 1438
+   },
+   {
+      "dispatching_base_number": "B02617",
+      "date": "1/29/2015",
+      "active_vehicles": 1474,
+      "trips": 12600
+   },
+   {
+      "dispatching_base_number": "B02764",
+      "date": "1/29/2015",
+      "active_vehicles": 3959,
+      "trips": 31637
+   },
+   {
+      "dispatching_base_number": "B02682",
+      "date": "1/29/2015",
+      "active_vehicles": 1316,
+      "trips": 11485
+   },
+   {
+      "dispatching_base_number": "B02765",
+      "date": "1/29/2015",
+      "active_vehicles": 295,
+      "trips": 2086
+   },
+   {
+      "dispatching_base_number": "B02512",
+      "date": "1/29/2015",
+      "active_vehicles": 250,
+      "trips": 1687
+   },
+   {
+      "dispatching_base_number": "B02598",
+      "date": "1/29/2015",
+      "active_vehicles": 1082,
+      "trips": 9499
+   },
+   {
+      "dispatching_base_number": "B02512",
+      "date": "1/30/2015",
+      "active_vehicles": 256,
+      "trips": 2016
+   },
+   {
+      "dispatching_base_number": "B02617",
+      "date": "1/30/2015",
+      "active_vehicles": 1501,
+      "trips": 14793
+   },
+   {
+      "dispatching_base_number": "B02682",
+      "date": "1/30/2015",
+      "active_vehicles": 1384,
+      "trips": 13852
+   },
+   {
+      "dispatching_base_number": "B02764",
+      "date": "1/30/2015",
+      "active_vehicles": 4124,
+      "trips": 39110
+   },
+   {
+      "dispatching_base_number": "B02765",
+      "date": "1/30/2015",
+      "active_vehicles": 322,
+      "trips": 2785
+   },
+   {
+      "dispatching_base_number": "B02598",
+      "date": "1/30/2015",
+      "active_vehicles": 1106,
+      "trips": 11167
+   },
+   {
+      "dispatching_base_number": "B02765",
+      "date": "1/31/2015",
+      "active_vehicles": 309,
+      "trips": 3282
+   },
+   {
+      "dispatching_base_number": "B02512",
+      "date": "1/31/2015",
+      "active_vehicles": 225,
+      "trips": 1892
+   },
+   {
+      "dispatching_base_number": "B02617",
+      "date": "1/31/2015",
+      "active_vehicles": 1394,
+      "trips": 15756
+   },
+   {
+      "dispatching_base_number": "B02682",
+      "date": "1/31/2015",
+      "active_vehicles": 1321,
+      "trips": 15388
+   },
+   {
+      "dispatching_base_number": "B02764",
+      "date": "1/31/2015",
+      "active_vehicles": 3947,
+      "trips": 44297
+   },
+   {
+      "dispatching_base_number": "B02598",
+      "date": "1/31/2015",
+      "active_vehicles": 1027,
+      "trips": 11642
+   },
+   {
+      "dispatching_base_number": "B02598",
+      "date": "2/1/2015",
+      "active_vehicles": 961,
+      "trips": 9499
+   },
+   {
+      "dispatching_base_number": "B02682",
+      "date": "2/1/2015",
+      "active_vehicles": 1214,
+      "trips": 12436
+   },
+   {
+      "dispatching_base_number": "B02512",
+      "date": "2/1/2015",
+      "active_vehicles": 193,
+      "trips": 1377
+   },
+   {
+      "dispatching_base_number": "B02765",
+      "date": "2/1/2015",
+      "active_vehicles": 289,
+      "trips": 2672
+   },
+   {
+      "dispatching_base_number": "B02617",
+      "date": "2/1/2015",
+      "active_vehicles": 1355,
+      "trips": 13458
+   },
+   {
+      "dispatching_base_number": "B02764",
+      "date": "2/1/2015",
+      "active_vehicles": 3740,
+      "trips": 37468
+   },
+   {
+      "dispatching_base_number": "B02617",
+      "date": "2/2/2015",
+      "active_vehicles": 1217,
+      "trips": 12216
+   },
+   {
+      "dispatching_base_number": "B02682",
+      "date": "2/2/2015",
+      "active_vehicles": 1152,
+      "trips": 11981
+   },
+   {
+      "dispatching_base_number": "B02765",
+      "date": "2/2/2015",
+      "active_vehicles": 275,
+      "trips": 2607
+   },
+   {
+      "dispatching_base_number": "B02598",
+      "date": "2/2/2015",
+      "active_vehicles": 939,
+      "trips": 9511
+   },
+   {
+      "dispatching_base_number": "B02764",
+      "date": "2/2/2015",
+      "active_vehicles": 3270,
+      "trips": 30761
+   },
+   {
+      "dispatching_base_number": "B02512",
+      "date": "2/2/2015",
+      "active_vehicles": 227,
+      "trips": 1904
+   },
+   {
+      "dispatching_base_number": "B02765",
+      "date": "2/3/2015",
+      "active_vehicles": 299,
+      "trips": 2410
+   },
+   {
+      "dispatching_base_number": "B02598",
+      "date": "2/3/2015",
+      "active_vehicles": 991,
+      "trips": 9602
+   },
+   {
+      "dispatching_base_number": "B02512",
+      "date": "2/3/2015",
+      "active_vehicles": 257,
+      "trips": 1915
+   },
+   {
+      "dispatching_base_number": "B02764",
+      "date": "2/3/2015",
+      "active_vehicles": 3674,
+      "trips": 31641
+   },
+   {
+      "dispatching_base_number": "B02617",
+      "date": "2/3/2015",
+      "active_vehicles": 1350,
+      "trips": 12665
+   },
+   {
+      "dispatching_base_number": "B02682",
+      "date": "2/3/2015",
+      "active_vehicles": 1269,
+      "trips": 11955
+   },
+   {
+      "dispatching_base_number": "B02764",
+      "date": "2/4/2015",
+      "active_vehicles": 3856,
+      "trips": 29994
+   },
+   {
+      "dispatching_base_number": "B02765",
+      "date": "2/4/2015",
+      "active_vehicles": 309,
+      "trips": 2334
+   },
+   {
+      "dispatching_base_number": "B02512",
+      "date": "2/4/2015",
+      "active_vehicles": 244,
+      "trips": 1639
+   },
+   {
+      "dispatching_base_number": "B02682",
+      "date": "2/4/2015",
+      "active_vehicles": 1311,
+      "trips": 11309
+   },
+   {
+      "dispatching_base_number": "B02617",
+      "date": "2/4/2015",
+      "active_vehicles": 1393,
+      "trips": 11959
+   },
+   {
+      "dispatching_base_number": "B02598",
+      "date": "2/4/2015",
+      "active_vehicles": 1072,
+      "trips": 9600
+   },
+   {
+      "dispatching_base_number": "B02617",
+      "date": "2/5/2015",
+      "active_vehicles": 1524,
+      "trips": 14499
+   },
+   {
+      "dispatching_base_number": "B02682",
+      "date": "2/5/2015",
+      "active_vehicles": 1418,
+      "trips": 13782
+   },
+   {
+      "dispatching_base_number": "B02598",
+      "date": "2/5/2015",
+      "active_vehicles": 1179,
+      "trips": 11609
+   },
+   {
+      "dispatching_base_number": "B02512",
+      "date": "2/5/2015",
+      "active_vehicles": 264,
+      "trips": 2022
+   },
+   {
+      "dispatching_base_number": "B02765",
+      "date": "2/5/2015",
+      "active_vehicles": 355,
+      "trips": 3011
+   },
+   {
+      "dispatching_base_number": "B02764",
+      "date": "2/5/2015",
+      "active_vehicles": 4093,
+      "trips": 35990
+   },
+   {
+      "dispatching_base_number": "B02617",
+      "date": "2/6/2015",
+      "active_vehicles": 1526,
+      "trips": 15417
+   },
+   {
+      "dispatching_base_number": "B02765",
+      "date": "2/6/2015",
+      "active_vehicles": 385,
+      "trips": 3569
+   },
+   {
+      "dispatching_base_number": "B02598",
+      "date": "2/6/2015",
+      "active_vehicles": 1181,
+      "trips": 11897
+   },
+   {
+      "dispatching_base_number": "B02512",
+      "date": "2/6/2015",
+      "active_vehicles": 261,
+      "trips": 1989
+   },
+   {
+      "dispatching_base_number": "B02764",
+      "date": "2/6/2015",
+      "active_vehicles": 4170,
+      "trips": 38693
+   },
+   {
+      "dispatching_base_number": "B02682",
+      "date": "2/6/2015",
+      "active_vehicles": 1414,
+      "trips": 14375
+   },
+   {
+      "dispatching_base_number": "B02598",
+      "date": "2/7/2015",
+      "active_vehicles": 1031,
+      "trips": 10512
+   },
+   {
+      "dispatching_base_number": "B02512",
+      "date": "2/7/2015",
+      "active_vehicles": 211,
+      "trips": 1504
+   },
+   {
+      "dispatching_base_number": "B02617",
+      "date": "2/7/2015",
+      "active_vehicles": 1383,
+      "trips": 13688
+   },
+   {
+      "dispatching_base_number": "B02682",
+      "date": "2/7/2015",
+      "active_vehicles": 1300,
+      "trips": 13450
+   },
+   {
+      "dispatching_base_number": "B02764",
+      "date": "2/7/2015",
+      "active_vehicles": 3849,
+      "trips": 38530
+   },
+   {
+      "dispatching_base_number": "B02765",
+      "date": "2/7/2015",
+      "active_vehicles": 345,
+      "trips": 3473
+   },
+   {
+      "dispatching_base_number": "B02764",
+      "date": "2/8/2015",
+      "active_vehicles": 3422,
+      "trips": 29692
+   },
+   {
+      "dispatching_base_number": "B02765",
+      "date": "2/8/2015",
+      "active_vehicles": 313,
+      "trips": 2623
+   },
+   {
+      "dispatching_base_number": "B02598",
+      "date": "2/8/2015",
+      "active_vehicles": 923,
+      "trips": 8129
+   },
+   {
+      "dispatching_base_number": "B02617",
+      "date": "2/8/2015",
+      "active_vehicles": 1256,
+      "trips": 11004
+   },
+   {
+      "dispatching_base_number": "B02682",
+      "date": "2/8/2015",
+      "active_vehicles": 1136,
+      "trips": 10356
+   },
+   {
+      "dispatching_base_number": "B02512",
+      "date": "2/8/2015",
+      "active_vehicles": 176,
+      "trips": 1196
+   },
+   {
+      "dispatching_base_number": "B02617",
+      "date": "2/9/2015",
+      "active_vehicles": 1312,
+      "trips": 10887
+   },
+   {
+      "dispatching_base_number": "B02682",
+      "date": "2/9/2015",
+      "active_vehicles": 1241,
+      "trips": 10209
+   },
+   {
+      "dispatching_base_number": "B02598",
+      "date": "2/9/2015",
+      "active_vehicles": 976,
+      "trips": 8135
+   },
+   {
+      "dispatching_base_number": "B02764",
+      "date": "2/9/2015",
+      "active_vehicles": 3543,
+      "trips": 28266
+   },
+   {
+      "dispatching_base_number": "B02512",
+      "date": "2/9/2015",
+      "active_vehicles": 228,
+      "trips": 1565
+   },
+   {
+      "dispatching_base_number": "B02765",
+      "date": "2/9/2015",
+      "active_vehicles": 388,
+      "trips": 2894
+   },
+   {
+      "dispatching_base_number": "B02764",
+      "date": "2/10/2015",
+      "active_vehicles": 3700,
+      "trips": 29124
+   },
+   {
+      "dispatching_base_number": "B02512",
+      "date": "2/10/2015",
+      "active_vehicles": 233,
+      "trips": 1555
+   },
+   {
+      "dispatching_base_number": "B02617",
+      "date": "2/10/2015",
+      "active_vehicles": 1364,
+      "trips": 11401
+   },
+   {
+      "dispatching_base_number": "B02765",
+      "date": "2/10/2015",
+      "active_vehicles": 422,
+      "trips": 3432
+   },
+   {
+      "dispatching_base_number": "B02682",
+      "date": "2/10/2015",
+      "active_vehicles": 1281,
+      "trips": 10536
+   },
+   {
+      "dispatching_base_number": "B02598",
+      "date": "2/10/2015",
+      "active_vehicles": 1029,
+      "trips": 8718
+   },
+   {
+      "dispatching_base_number": "B02617",
+      "date": "2/11/2015",
+      "active_vehicles": 1450,
+      "trips": 12749
+   },
+   {
+      "dispatching_base_number": "B02764",
+      "date": "2/11/2015",
+      "active_vehicles": 3849,
+      "trips": 31889
+   },
+   {
+      "dispatching_base_number": "B02512",
+      "date": "2/11/2015",
+      "active_vehicles": 255,
+      "trips": 1831
+   },
+   {
+      "dispatching_base_number": "B02598",
+      "date": "2/11/2015",
+      "active_vehicles": 1115,
+      "trips": 10034
+   },
+   {
+      "dispatching_base_number": "B02765",
+      "date": "2/11/2015",
+      "active_vehicles": 450,
+      "trips": 3778
+   },
+   {
+      "dispatching_base_number": "B02682",
+      "date": "2/11/2015",
+      "active_vehicles": 1396,
+      "trips": 12189
+   },
+   {
+      "dispatching_base_number": "B02617",
+      "date": "2/12/2015",
+      "active_vehicles": 1532,
+      "trips": 14263
+   },
+   {
+      "dispatching_base_number": "B02512",
+      "date": "2/12/2015",
+      "active_vehicles": 269,
+      "trips": 2092
+   },
+   {
+      "dispatching_base_number": "B02682",
+      "date": "2/12/2015",
+      "active_vehicles": 1468,
+      "trips": 13786
+   },
+   {
+      "dispatching_base_number": "B02765",
+      "date": "2/12/2015",
+      "active_vehicles": 536,
+      "trips": 4609
+   },
+   {
+      "dispatching_base_number": "B02598",
+      "date": "2/12/2015",
+      "active_vehicles": 1181,
+      "trips": 11640
+   },
+   {
+      "dispatching_base_number": "B02764",
+      "date": "2/12/2015",
+      "active_vehicles": 4137,
+      "trips": 36844
+   },
+   {
+      "dispatching_base_number": "B02617",
+      "date": "2/13/2015",
+      "active_vehicles": 1590,
+      "trips": 16996
+   },
+   {
+      "dispatching_base_number": "B02682",
+      "date": "2/13/2015",
+      "active_vehicles": 1523,
+      "trips": 16088
+   },
+   {
+      "dispatching_base_number": "B02764",
+      "date": "2/13/2015",
+      "active_vehicles": 4395,
+      "trips": 43561
+   },
+   {
+      "dispatching_base_number": "B02765",
+      "date": "2/13/2015",
+      "active_vehicles": 599,
+      "trips": 5909
+   },
+   {
+      "dispatching_base_number": "B02512",
+      "date": "2/13/2015",
+      "active_vehicles": 281,
+      "trips": 2408
+   },
+   {
+      "dispatching_base_number": "B02598",
+      "date": "2/13/2015",
+      "active_vehicles": 1216,
+      "trips": 13062
+   },
+   {
+      "dispatching_base_number": "B02764",
+      "date": "2/14/2015",
+      "active_vehicles": 4129,
+      "trips": 45858
+   },
+   {
+      "dispatching_base_number": "B02512",
+      "date": "2/14/2015",
+      "active_vehicles": 236,
+      "trips": 2055
+   },
+   {
+      "dispatching_base_number": "B02598",
+      "date": "2/14/2015",
+      "active_vehicles": 1111,
+      "trips": 12678
+   },
+   {
+      "dispatching_base_number": "B02765",
+      "date": "2/14/2015",
+      "active_vehicles": 583,
+      "trips": 6307
+   },
+   {
+      "dispatching_base_number": "B02617",
+      "date": "2/14/2015",
+      "active_vehicles": 1486,
+      "trips": 16999
+   },
+   {
+      "dispatching_base_number": "B02682",
+      "date": "2/14/2015",
+      "active_vehicles": 1428,
+      "trips": 16448
+   },
+   {
+      "dispatching_base_number": "B02682",
+      "date": "2/15/2015",
+      "active_vehicles": 1261,
+      "trips": 14517
+   },
+   {
+      "dispatching_base_number": "B02764",
+      "date": "2/15/2015",
+      "active_vehicles": 3651,
+      "trips": 41209
+   },
+   {
+      "dispatching_base_number": "B02617",
+      "date": "2/15/2015",
+      "active_vehicles": 1293,
+      "trips": 14662
+   },
+   {
+      "dispatching_base_number": "B02765",
+      "date": "2/15/2015",
+      "active_vehicles": 521,
+      "trips": 5500
+   },
+   {
+      "dispatching_base_number": "B02512",
+      "date": "2/15/2015",
+      "active_vehicles": 210,
+      "trips": 1996
+   },
+   {
+      "dispatching_base_number": "B02598",
+      "date": "2/15/2015",
+      "active_vehicles": 1003,
+      "trips": 11517
+   },
+   {
+      "dispatching_base_number": "B02598",
+      "date": "2/16/2015",
+      "active_vehicles": 934,
+      "trips": 9052
+   },
+   {
+      "dispatching_base_number": "B02512",
+      "date": "2/16/2015",
+      "active_vehicles": 207,
+      "trips": 1576
+   },
+   {
+      "dispatching_base_number": "B02617",
+      "date": "2/16/2015",
+      "active_vehicles": 1214,
+      "trips": 11824
+   },
+   {
+      "dispatching_base_number": "B02764",
+      "date": "2/16/2015",
+      "active_vehicles": 3524,
+      "trips": 33448
+   },
+   {
+      "dispatching_base_number": "B02682",
+      "date": "2/16/2015",
+      "active_vehicles": 1164,
+      "trips": 11323
+   },
+   {
+      "dispatching_base_number": "B02765",
+      "date": "2/16/2015",
+      "active_vehicles": 508,
+      "trips": 4875
+   },
+   {
+      "dispatching_base_number": "B02764",
+      "date": "2/17/2015",
+      "active_vehicles": 3826,
+      "trips": 32473
+   },
+   {
+      "dispatching_base_number": "B02512",
+      "date": "2/17/2015",
+      "active_vehicles": 241,
+      "trips": 1797
+   },
+   {
+      "dispatching_base_number": "B02682",
+      "date": "2/17/2015",
+      "active_vehicles": 1314,
+      "trips": 11887
+   },
+   {
+      "dispatching_base_number": "B02617",
+      "date": "2/17/2015",
+      "active_vehicles": 1378,
+      "trips": 12524
+   },
+   {
+      "dispatching_base_number": "B02598",
+      "date": "2/17/2015",
+      "active_vehicles": 1066,
+      "trips": 9463
+   },
+   {
+      "dispatching_base_number": "B02765",
+      "date": "2/17/2015",
+      "active_vehicles": 578,
+      "trips": 4907
+   },
+   {
+      "dispatching_base_number": "B02598",
+      "date": "2/18/2015",
+      "active_vehicles": 1078,
+      "trips": 9538
+   },
+   {
+      "dispatching_base_number": "B02682",
+      "date": "2/18/2015",
+      "active_vehicles": 1314,
+      "trips": 11724
+   },
+   {
+      "dispatching_base_number": "B02617",
+      "date": "2/18/2015",
+      "active_vehicles": 1394,
+      "trips": 12016
+   },
+   {
+      "dispatching_base_number": "B02765",
+      "date": "2/18/2015",
+      "active_vehicles": 586,
+      "trips": 5059
+   },
+   {
+      "dispatching_base_number": "B02764",
+      "date": "2/18/2015",
+      "active_vehicles": 3842,
+      "trips": 32317
+   },
+   {
+      "dispatching_base_number": "B02512",
+      "date": "2/18/2015",
+      "active_vehicles": 228,
+      "trips": 1589
+   },
+   {
+      "dispatching_base_number": "B02598",
+      "date": "2/19/2015",
+      "active_vehicles": 1127,
+      "trips": 11739
+   },
+   {
+      "dispatching_base_number": "B02512",
+      "date": "2/19/2015",
+      "active_vehicles": 250,
+      "trips": 2120
+   },
+   {
+      "dispatching_base_number": "B02682",
+      "date": "2/19/2015",
+      "active_vehicles": 1428,
+      "trips": 14591
+   },
+   {
+      "dispatching_base_number": "B02764",
+      "date": "2/19/2015",
+      "active_vehicles": 4110,
+      "trips": 39110
+   },
+   {
+      "dispatching_base_number": "B02765",
+      "date": "2/19/2015",
+      "active_vehicles": 663,
+      "trips": 6447
+   },
+   {
+      "dispatching_base_number": "B02617",
+      "date": "2/19/2015",
+      "active_vehicles": 1452,
+      "trips": 14750
+   },
+   {
+      "dispatching_base_number": "B02764",
+      "date": "2/20/2015",
+      "active_vehicles": 4384,
+      "trips": 44755
+   },
+   {
+      "dispatching_base_number": "B02617",
+      "date": "2/20/2015",
+      "active_vehicles": 1574,
+      "trips": 16856
+   },
+   {
+      "dispatching_base_number": "B02598",
+      "date": "2/20/2015",
+      "active_vehicles": 1186,
+      "trips": 12758
+   },
+   {
+      "dispatching_base_number": "B02682",
+      "date": "2/20/2015",
+      "active_vehicles": 1497,
+      "trips": 16342
+   },
+   {
+      "dispatching_base_number": "B02765",
+      "date": "2/20/2015",
+      "active_vehicles": 736,
+      "trips": 7824
+   },
+   {
+      "dispatching_base_number": "B02512",
+      "date": "2/20/2015",
+      "active_vehicles": 272,
+      "trips": 2380
+   },
+   {
+      "dispatching_base_number": "B02598",
+      "date": "2/21/2015",
+      "active_vehicles": 1044,
+      "trips": 12132
+   },
+   {
+      "dispatching_base_number": "B02682",
+      "date": "2/21/2015",
+      "active_vehicles": 1374,
+      "trips": 16149
+   },
+   {
+      "dispatching_base_number": "B02765",
+      "date": "2/21/2015",
+      "active_vehicles": 685,
+      "trips": 7658
+   },
+   {
+      "dispatching_base_number": "B02617",
+      "date": "2/21/2015",
+      "active_vehicles": 1443,
+      "trips": 16098
+   },
+   {
+      "dispatching_base_number": "B02512",
+      "date": "2/21/2015",
+      "active_vehicles": 238,
+      "trips": 2149
+   },
+   {
+      "dispatching_base_number": "B02764",
+      "date": "2/21/2015",
+      "active_vehicles": 3981,
+      "trips": 44194
+   },
+   {
+      "dispatching_base_number": "B02512",
+      "date": "2/22/2015",
+      "active_vehicles": 199,
+      "trips": 1312
+   },
+   {
+      "dispatching_base_number": "B02617",
+      "date": "2/22/2015",
+      "active_vehicles": 1248,
+      "trips": 10696
+   },
+   {
+      "dispatching_base_number": "B02682",
+      "date": "2/22/2015",
+      "active_vehicles": 1220,
+      "trips": 10970
+   },
+   {
+      "dispatching_base_number": "B02764",
+      "date": "2/22/2015",
+      "active_vehicles": 3478,
+      "trips": 30157
+   },
+   {
+      "dispatching_base_number": "B02598",
+      "date": "2/22/2015",
+      "active_vehicles": 909,
+      "trips": 8271
+   },
+   {
+      "dispatching_base_number": "B02765",
+      "date": "2/22/2015",
+      "active_vehicles": 566,
+      "trips": 5034
+   },
+   {
+      "dispatching_base_number": "B02598",
+      "date": "2/23/2015",
+      "active_vehicles": 966,
+      "trips": 8943
+   },
+   {
+      "dispatching_base_number": "B02617",
+      "date": "2/23/2015",
+      "active_vehicles": 1332,
+      "trips": 11720
+   },
+   {
+      "dispatching_base_number": "B02764",
+      "date": "2/23/2015",
+      "active_vehicles": 3734,
+      "trips": 31173
+   },
+   {
+      "dispatching_base_number": "B02682",
+      "date": "2/23/2015",
+      "active_vehicles": 1262,
+      "trips": 11714
+   },
+   {
+      "dispatching_base_number": "B02765",
+      "date": "2/23/2015",
+      "active_vehicles": 665,
+      "trips": 5823
+   },
+   {
+      "dispatching_base_number": "B02512",
+      "date": "2/23/2015",
+      "active_vehicles": 238,
+      "trips": 1844
+   },
+   {
+      "dispatching_base_number": "B02764",
+      "date": "2/24/2015",
+      "active_vehicles": 3965,
+      "trips": 34686
+   },
+   {
+      "dispatching_base_number": "B02512",
+      "date": "2/24/2015",
+      "active_vehicles": 247,
+      "trips": 1869
+   },
+   {
+      "dispatching_base_number": "B02598",
+      "date": "2/24/2015",
+      "active_vehicles": 1061,
+      "trips": 9954
+   },
+   {
+      "dispatching_base_number": "B02682",
+      "date": "2/24/2015",
+      "active_vehicles": 1346,
+      "trips": 12497
+   },
+   {
+      "dispatching_base_number": "B02617",
+      "date": "2/24/2015",
+      "active_vehicles": 1456,
+      "trips": 13719
+   },
+   {
+      "dispatching_base_number": "B02765",
+      "date": "2/24/2015",
+      "active_vehicles": 698,
+      "trips": 6390
+   },
+   {
+      "dispatching_base_number": "B02512",
+      "date": "2/25/2015",
+      "active_vehicles": 246,
+      "trips": 1647
+   },
+   {
+      "dispatching_base_number": "B02598",
+      "date": "2/25/2015",
+      "active_vehicles": 1076,
+      "trips": 9405
+   },
+   {
+      "dispatching_base_number": "B02765",
+      "date": "2/25/2015",
+      "active_vehicles": 706,
+      "trips": 6178
+   },
+   {
+      "dispatching_base_number": "B02682",
+      "date": "2/25/2015",
+      "active_vehicles": 1395,
+      "trips": 12693
+   },
+   {
+      "dispatching_base_number": "B02617",
+      "date": "2/25/2015",
+      "active_vehicles": 1473,
+      "trips": 12811
+   },
+   {
+      "dispatching_base_number": "B02764",
+      "date": "2/25/2015",
+      "active_vehicles": 3934,
+      "trips": 31957
+   },
+   {
+      "dispatching_base_number": "B02598",
+      "date": "2/26/2015",
+      "active_vehicles": 1134,
+      "trips": 10661
+   },
+   {
+      "dispatching_base_number": "B02617",
+      "date": "2/26/2015",
+      "active_vehicles": 1539,
+      "trips": 14461
+   },
+   {
+      "dispatching_base_number": "B02682",
+      "date": "2/26/2015",
+      "active_vehicles": 1465,
+      "trips": 13814
+   },
+   {
+      "dispatching_base_number": "B02512",
+      "date": "2/26/2015",
+      "active_vehicles": 243,
+      "trips": 1797
+   },
+   {
+      "dispatching_base_number": "B02765",
+      "date": "2/26/2015",
+      "active_vehicles": 745,
+      "trips": 6744
+   },
+   {
+      "dispatching_base_number": "B02764",
+      "date": "2/26/2015",
+      "active_vehicles": 4101,
+      "trips": 36091
+   },
+   {
+      "dispatching_base_number": "B02765",
+      "date": "2/27/2015",
+      "active_vehicles": 786,
+      "trips": 7563
+   },
+   {
+      "dispatching_base_number": "B02617",
+      "date": "2/27/2015",
+      "active_vehicles": 1551,
+      "trips": 14677
+   },
+   {
+      "dispatching_base_number": "B02598",
+      "date": "2/27/2015",
+      "active_vehicles": 1114,
+      "trips": 10755
+   },
+   {
+      "dispatching_base_number": "B02512",
+      "date": "2/27/2015",
+      "active_vehicles": 272,
+      "trips": 2056
+   },
+   {
+      "dispatching_base_number": "B02764",
+      "date": "2/27/2015",
+      "active_vehicles": 4253,
+      "trips": 38780
+   },
+   {
+      "dispatching_base_number": "B02682",
+      "date": "2/27/2015",
+      "active_vehicles": 1510,
+      "trips": 14975
+   },
+   {
+      "dispatching_base_number": "B02598",
+      "date": "2/28/2015",
+      "active_vehicles": 994,
+      "trips": 10319
+   },
+   {
+      "dispatching_base_number": "B02764",
+      "date": "2/28/2015",
+      "active_vehicles": 3952,
+      "trips": 39812
+   },
+   {
+      "dispatching_base_number": "B02617",
+      "date": "2/28/2015",
+      "active_vehicles": 1372,
+      "trips": 14022
+   },
+   {
+      "dispatching_base_number": "B02682",
+      "date": "2/28/2015",
+      "active_vehicles": 1386,
+      "trips": 14472
+   },
+   {
+      "dispatching_base_number": "B02512",
+      "date": "2/28/2015",
+      "active_vehicles": 230,
+      "trips": 1803
+   },
+   {
+      "dispatching_base_number": "B02765",
+      "date": "2/28/2015",
+      "active_vehicles": 747,
+      "trips": 7753
+   }
+]
